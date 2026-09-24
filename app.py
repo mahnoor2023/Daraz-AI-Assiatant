@@ -309,6 +309,23 @@ def build_context(chunks: list) -> str:
     return "\n\n---\n\n".join(blocks)
 
 
+def dedupe_sources(items: list) -> list:
+    """
+    Multiple retrieved chunks often come from the same PDF (different
+    paragraphs). For the little source tags shown under an answer, we only
+    want each (department, source_file) pair once — order of first
+    appearance is preserved.
+    """
+    seen = set()
+    unique = []
+    for item in items:
+        key = (item["department"], item["source_file"])
+        if key not in seen:
+            seen.add(key)
+            unique.append(item)
+    return unique
+
+
 SYSTEM_PROMPT = """You are the Daraz Customer Support Operations Assistant, an internal tool used by \
 Daraz support agents and operations staff to quickly answer questions about company policy on \
 returns, delivery, refunds, sellers, payments, and customer support.
@@ -359,7 +376,7 @@ for msg in st.session_state.messages:
         if msg["role"] == "assistant" and msg.get("sources"):
             tags = "".join(
                 f'<span class="source-tag">{s["department"]} · {s["source_file"]}</span>'
-                for s in msg["sources"]
+                for s in dedupe_sources(msg["sources"])
             )
             st.markdown(tags, unsafe_allow_html=True)
 
@@ -427,7 +444,7 @@ if user_question:
             if show_sources:
                 tags = "".join(
                     f'<span class="source-tag">{c["department"]} · {c["source_file"]}</span>'
-                    for c in chunks
+                    for c in dedupe_sources(chunks)
                 )
                 st.markdown(tags, unsafe_allow_html=True)
                 with st.expander("View retrieved excerpts"):
