@@ -1,0 +1,386 @@
+[
+  {
+    "id": "3e230e56-1bde-4b62-bc31-6bcb1df33f68",
+    "department": "customer_support",
+    "source_file": "customer_support_complaint_escalation.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nComplaint Handling & Escalation Process\nStandard workflow for logging, resolving, and escalating customer complaints.\nDocument ID KB-CS-003 Version v1.4\nOwner Customer Experience Team Last Updated 22 Sep 2026\n1. Complaint Intake\n(cid:127) Customer raises an issue with the order ID and a description of the problem, through any support channel.\n(cid:127) The agent logs the complaint in the case management system with a category tag (delivery, payment,\nproduct quality, seller conduct, other).\n(cid:127) An acknowledgement with a case reference number is sent to the customer immediately.\n2. Resolution Workflow\n(cid:127) Step 1: First-line agent reviews order history, delivery status, and any prior related tickets."
+  },
+  {
+    "id": "0909ab20-52a1-465a-a48a-8c9ad3c3a424",
+    "department": "customer_support",
+    "source_file": "customer_support_complaint_escalation.pdf",
+    "chunk_text": "2. Resolution Workflow\n(cid:127) Step 1: First-line agent reviews order history, delivery status, and any prior related tickets.\n(cid:127) Step 2: Agent proposes a resolution (refund, replacement, compensation, information) within the\ndocumented SLA for that complaint category.\n(cid:127) Step 3: If the customer disputes the proposed resolution, the case is escalated to a Senior Support\nSpecialist for review.\n(cid:127) Step 4: Cases involving potential fraud, safety, or repeated seller violations are routed to Trust & Safety.\n3. Escalation Triggers\nTrigEgesrcTalaartgeedt TRoesponse\nUnreSseonlvWioerdi tS haiunftp e2pr4 of irhrts oStu prreesscpiaolnisste\nCustToemaemWr idLthiesianpd u2t4e sh roeusroslution\nSuspTeructseWt d&i tfh rSainau f4de thoyor uarcscount compromise"
+  },
+  {
+    "id": "790078b8-dbbd-4657-bb82-92f61fdf4cb9",
+    "department": "customer_support",
+    "source_file": "customer_support_complaint_escalation.pdf",
+    "chunk_text": "CustToemaemWr idLthiesianpd u2t4e sh roeusroslution\nSuspTeructseWt d&i tfh rSainau f4de thoyor uarcscount compromise\nRepeSaetleleWdr isOthepilnlee rr4a-8cti aohunossuerds complaints\n4. Closing a Complaint\nA complaint is only marked resolved once the customer has confirmed the outcome, or after 3 documented\nattempts to reach the customer for confirmation have failed. All resolved cases are retained in the system for\n12 months for audit and training purposes.\nNote: Agents should never close a complaint as “resolved” without either explicit customer confirmation\nor a documented final action (refund issued, replacement dispatched, etc.) attached to the case.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an"
+  },
+  {
+    "id": "261de200-4edf-497b-8e85-a29dba34b7be",
+    "department": "customer_support",
+    "source_file": "customer_support_complaint_escalation.pdf",
+    "chunk_text": "This is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nComplaint Handling & Escalation Process Page 1"
+  },
+  {
+    "id": "546b3c67-cb36-4cba-8823-8ccb16bad02b",
+    "department": "customer_support",
+    "source_file": "customer_support_contact_channels.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nCustomer Support Contact Channels\nAvailable support channels, their hours of operation, and best-use cases.\nDocument ID KB-CS-001 Version v2.2\nOwner Customer Experience Team Last Updated 20 Sep 2026\n1. Available Channels\nChaHnonueBrlsest For\nIn-a2p4p/ 7LOivrdee Cr hisastues, tracking, general queries\nHelp2 4C/7eFnAteQrs /, Speollfi-cSye lorvoickeups, return/refund status\nCall9 C:0e0Un AtrrgMee Hn–to 1otl1irnd:0ee0r PisMsu deas,il ypayment disputes\nEma2i4l /S7Du (epretpasoiplretodn sceo mwpitlhaiinn t2s4, –d4o8chu)ment submission\nSoc9ia:0l 0MG AeedMniea –r (a v9l e:i0nri0qfi uePidrMi ea sdc,ca eoilysucnatsla)tions\n2. Before Contacting Support"
+  },
+  {
+    "id": "64881fba-6691-44f1-b21a-e3dbb75a046a",
+    "department": "customer_support",
+    "source_file": "customer_support_contact_channels.pdf",
+    "chunk_text": "Soc9ia:0l 0MG AeedMniea –r (a v9l e:i0nri0qfi uePidrMi ea sdc,ca eoilysucnatsla)tions\n2. Before Contacting Support\n(cid:127) Check order status and tracking details under “My Orders”, as many queries are resolved there directly.\n(cid:127) Review the Help Center article for the relevant topic (return, refund, delivery) as first line of self-service.\n(cid:127) Have the order number ready — this is required to open any support ticket.\n3. Escalation Path\n(cid:127) Level 1: Live Chat / Call Centre agent handles the initial request.\n(cid:127) Level 2: Unresolved or complex cases are escalated to a Senior Support Specialist within 24 hours.\n(cid:127) Level 3: Cases involving fraud, safety, or repeated failures are escalated to the Trust & Safety or Payments\nteam for direct handling."
+  },
+  {
+    "id": "31f0d70a-cfb4-4552-a045-c722a6c867e5",
+    "department": "customer_support",
+    "source_file": "customer_support_contact_channels.pdf",
+    "chunk_text": "(cid:127) Level 3: Cases involving fraud, safety, or repeated failures are escalated to the Trust & Safety or Payments\nteam for direct handling.\n4. Language Support\nSupport is available in English and Urdu across all channels; regional language support may be available on a\nlimited basis through the call centre depending on agent availability.\nNote: Support agents will never ask for a customer's full card number, CVV, or OTP over chat, call, or\nemail. Any such request should be reported as suspected fraud.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nCustomer Support Contact Channels Page 1"
+  },
+  {
+    "id": "cb9ea98f-717d-4dc8-95d6-05716b129d14",
+    "department": "customer_support",
+    "source_file": "customer_support_sla_response_times.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nCustomer Support SLA & Response Times\nInternal service-level agreements for first response and resolution across ticket types.\nDocument ID KB-CS-002 Version v2.0\nOwner Customer Experience Team Last Updated 09 Sep 2026\n1. First Response SLA by Channel\nChannFeilrst Response Target\nLive CUhantder 60 seconds\nCall CeUnntdreer 3 minutes average wait time\nEmailWithin 24 hours\nSocial WMiethdiina 4 hours (business hours)\n2. Resolution SLA by Ticket Type\nTickeTta Trgypete Resolution Time\nOrdeSr tarmacek iinngte /r asctatitouns query\nRetur2n– /3 r beufusninde rsesq duaeysst processing\nPaym5e–n1t0 d bisupsuintee sinsv deasytisgation\nDama3g–e5d b/wusroinnegs sit edmay cslaim\nAccoWunitt haincc 2e4s sh o/ usrescurity issue"
+  },
+  {
+    "id": "cd075ef2-e72b-4a69-8fb0-c0c9bd0bcd2a",
+    "department": "customer_support",
+    "source_file": "customer_support_sla_response_times.pdf",
+    "chunk_text": "Paym5e–n1t0 d bisupsuintee sinsv deasytisgation\nDama3g–e5d b/wusroinnegs sit edmay cslaim\nAccoWunitt haincc 2e4s sh o/ usrescurity issue\nSelle5r –c7o nbduuscint ecsosm dpalayisnt\n3. Priority Classification\n(cid:127) P1 — Critical: account security, fraud, or safety issues. Immediate escalation required.\n(cid:127) P2 — High: payment disputes, high-value order issues. Handled within same business day.\n(cid:127) P3 — Standard: general returns, refunds, delivery queries. Handled within stated SLA.\n(cid:127) P4 — Low: general feedback, non-urgent product questions. Best-effort response.\n4. Breach Handling\nTickets approaching or exceeding their SLA window are automatically flagged in the case management"
+  },
+  {
+    "id": "c1787699-87fa-4580-9ffb-ba3384ee1125",
+    "department": "customer_support",
+    "source_file": "customer_support_sla_response_times.pdf",
+    "chunk_text": "4. Breach Handling\nTickets approaching or exceeding their SLA window are automatically flagged in the case management\nsystem and routed to a team lead for review. Repeated SLA breaches for a given issue category trigger a\nroot-cause review by the Customer Experience operations team.\nCustomer Support SLA & Response Times Page 1\ndaraz Knowledge Base — Internal Policy Document\nNote: SLA targets may be temporarily adjusted during officially announced high-volume periods (major\nsale campaigns), with revised targets communicated internally in advance.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nCustomer Support SLA & Response Times Page 2"
+  },
+  {
+    "id": "d9b35a5e-48a5-4e0d-99ef-d5726cf47798",
+    "department": "delivery",
+    "source_file": "delivery_courier_partners_zones.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nCourier Partners & Delivery Zones\nOverview of logistics partners, service coverage, and zone classifications.\nDocument ID KB-DEL-002 Version v2.1\nOwner Logistics Operations Last Updated 29 Jul 2026\n1. Delivery Zone Classification\nZoDneescErxipamtiopnle Areas\nZoMnee tArKoa /r haicghhi,- dLeanhsoitrye ,u Irsblaamnabad city core\nZoSnee cBoFnadisaaryla cbiatide,s Multan, Peshawar, Hyderabad\nZoTneeh CsDili-sletrvicetl ttoowwnnss with courier hub access\nZoRnee mDAorteea /s l ismeirtevedd a vcicae essxtended-delivery partners\n2. Fulfilment Network\n(cid:127) Daraz Fulfilment Centres store fast-moving inventory close to major demand hubs to enable next-day and\n2-day delivery in Zone A."
+  },
+  {
+    "id": "970259ce-c77c-413d-b001-2ae243cca68e",
+    "department": "delivery",
+    "source_file": "delivery_courier_partners_zones.pdf",
+    "chunk_text": "(cid:127) Daraz Fulfilment Centres store fast-moving inventory close to major demand hubs to enable next-day and\n2-day delivery in Zone A.\n(cid:127) Seller-managed warehouses ship directly to the courier network from the seller's registered pickup location.\n(cid:127) Regional sortation hubs consolidate shipments before last-mile handover to reduce transit time.\n3. Last-Mile Delivery Partners\nLast-mile delivery is handled through a network of contracted courier and logistics partners, selected by\nserviceability, cost, and reliability for a given postal zone. The assigned courier partner for a specific order is\nvisible on the order tracking page.\n4. Cash-on-Delivery (COD) Zone Restrictions\nCOD is available across most Zone A and Zone B areas. In select Zone C and Zone D areas, COD may be"
+  },
+  {
+    "id": "0c597ec5-1c3a-4b5c-9c06-8c0aba659168",
+    "department": "delivery",
+    "source_file": "delivery_courier_partners_zones.pdf",
+    "chunk_text": "4. Cash-on-Delivery (COD) Zone Restrictions\nCOD is available across most Zone A and Zone B areas. In select Zone C and Zone D areas, COD may be\ncapped at a maximum order value or unavailable altogether due to cash-handling risk; in such cases, only\nprepaid payment methods are offered at checkout.\n5. Address Serviceability Check\n(cid:127) Serviceability is checked automatically at checkout using the delivery postal code.\n(cid:127) If a postal code is not serviceable for a given product (e.g. bulky item to a remote zone), the product listing\nwill display “Not deliverable to this address”.\n(cid:127) Customers can update their delivery address before checkout to check alternate serviceability."
+  },
+  {
+    "id": "7cc3c26b-67d5-4402-b857-f706dee35193",
+    "department": "delivery",
+    "source_file": "delivery_courier_partners_zones.pdf",
+    "chunk_text": "(cid:127) Customers can update their delivery address before checkout to check alternate serviceability.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nCourier Partners & Delivery Zones Page 1"
+  },
+  {
+    "id": "19e43117-2967-4af7-b527-6f2316ab186d",
+    "department": "delivery",
+    "source_file": "delivery_process_guidelines.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nDelivery Process Guidelines\nHow an order moves from confirmation to doorstep, including delivery attempt rules.\nDocument ID KB-DEL-003 Version v1.9\nOwner Logistics Operations Last Updated 19 Sep 2026\n1. Order Lifecycle Stages\n(cid:127) Order Confirmed — payment or COD order successfully placed.\n(cid:127) Packed — seller or fulfilment centre prepares the item for handover.\n(cid:127) Shipped — item handed to the courier partner and assigned a tracking number.\n(cid:127) Out for Delivery — item is with the local rider/courier for final delivery.\n(cid:127) Delivered — order marked complete upon customer receipt confirmation.\n2. Delivery Attempt Rules"
+  },
+  {
+    "id": "cf929494-0ae2-4bc6-868a-cc09eca14fa1",
+    "department": "delivery",
+    "source_file": "delivery_process_guidelines.pdf",
+    "chunk_text": "(cid:127) Delivered — order marked complete upon customer receipt confirmation.\n2. Delivery Attempt Rules\nEach delivery attempt includes a call or SMS notification to the customer ahead of arrival. If the customer is\nunreachable or unavailable, up to two further attempts are made on subsequent days before the parcel is\nreturned to the nearest sorting hub.\n3. Express Delivery\n(cid:127) Available for select in-stock products in serviceable metro areas.\n(cid:127) Delivery completed within 24–48 hours of order confirmation for an additional fee shown at checkout.\n(cid:127) Express orders are prioritised at every stage of the fulfilment pipeline.\n4. Failed Delivery Handling\n(cid:127) After 3 failed attempts, the order is returned to the hub and the customer is notified via SMS/email with"
+  },
+  {
+    "id": "d1f952cc-040f-4efe-9e5e-fb9a62b5f970",
+    "department": "delivery",
+    "source_file": "delivery_process_guidelines.pdf",
+    "chunk_text": "4. Failed Delivery Handling\n(cid:127) After 3 failed attempts, the order is returned to the hub and the customer is notified via SMS/email with\nrescheduling options.\n(cid:127) If no response is received within 5 business days, the order is auto-cancelled and any prepaid amount is\nrefunded per the Refund Policy.\nNote: Customers can reschedule a delivery attempt or update the delivery address (within the same city)\ndirectly from the order tracking page before the final attempt.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nDelivery Process Guidelines Page 1"
+  },
+  {
+    "id": "3ad2b339-35dc-4be2-8613-7f5c31ec5b7c",
+    "department": "delivery",
+    "source_file": "delivery_shipping_timelines.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nShipping & Delivery Timelines\nExpected delivery windows by shipment type, city tier, and fulfilment method.\nDocument ID KB-DEL-001 Version v4.0\nOwner Logistics Operations Last Updated 18 Sep 2026\n1. Standard Delivery Timelines\nFulfiMlmeetOrnotth CTeyirtp iCeesities\nDara1z– F3u2 bl–fui5llse bindue (ssDinsF edSsa)sy wdsaaryeshouse stock\nSelle3r-–f5u4 lfb–ilul7es dbin,u eisnsi-nss etdosacsyk dsays\nCros7s–-b1o94r– db1eu6rs /bin iumesspinso edrstaesyd ds iateymss\nLarge3/–b6u5 lbk–uy9s ibitneuemssisns e(dasapsy pdsliaaynsces, furniture)\n2. Order Processing Before Dispatch\nOrders are typically processed and handed to the courier partner within 24–48 hours of confirmation,"
+  },
+  {
+    "id": "d4a90acc-be3e-47dd-aef2-2c1929287db2",
+    "department": "delivery",
+    "source_file": "delivery_shipping_timelines.pdf",
+    "chunk_text": "2. Order Processing Before Dispatch\nOrders are typically processed and handed to the courier partner within 24–48 hours of confirmation,\ndepending on seller processing time and stock location. Orders placed during major sale campaigns (e.g.\nanniversary sale, 11.11, 12.12) may experience 1–2 additional processing days due to higher volumes.\n3. Factors That May Delay Delivery\n(cid:127) Severe weather conditions or public holidays affecting courier operations.\n(cid:127) Incomplete or incorrect delivery address provided at checkout.\n(cid:127) Failed delivery attempts due to recipient unavailability.\n(cid:127) Customs clearance delays for cross-border shipments.\n(cid:127) Regional security or transport disruptions.\n4. Delivery Attempts"
+  },
+  {
+    "id": "6b807eb1-d2d4-4089-9aea-98aaf5c27b4b",
+    "department": "delivery",
+    "source_file": "delivery_shipping_timelines.pdf",
+    "chunk_text": "(cid:127) Customs clearance delays for cross-border shipments.\n(cid:127) Regional security or transport disruptions.\n4. Delivery Attempts\nCouriers make up to 3 delivery attempts for a standard order. If all attempts fail, the package is returned to the\nnearest sorting hub and the customer is notified to reschedule or the order is cancelled with a refund initiated\nper the refund policy.\n5. Order Tracking\n(cid:127) Tracking updates are available under “My Orders fi Track Order”.\n(cid:127) SMS and push notifications are sent at dispatch, out-for-delivery, and delivery confirmation.\n(cid:127) Tracking numbers become active within 12–24 hours of handover to the courier partner.\nShipping & Delivery Timelines Page 1\ndaraz Knowledge Base — Internal Policy Document"
+  },
+  {
+    "id": "2e13a1af-b95f-4abc-a831-e290a513919d",
+    "department": "delivery",
+    "source_file": "delivery_shipping_timelines.pdf",
+    "chunk_text": "Shipping & Delivery Timelines Page 1\ndaraz Knowledge Base — Internal Policy Document\nNote: Delivery timelines are estimates and not guaranteed delivery dates unless the order was placed\nunder an Express Delivery service, which carries its own SLA.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nShipping & Delivery Timelines Page 2"
+  },
+  {
+    "id": "bf489633-ae52-4045-9d01-05215e122552",
+    "department": "payments",
+    "source_file": "payments_accepted_methods.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nAccepted Payment Methods\nSupported payment options at checkout and their associated processing rules.\nDocument ID KB-PAY-001 Version v3.1\nOwner Payments & Fintech Team Last Updated 05 Sep 2026\n1. Supported Payment Methods\nMetDheosdcRriepftuionnd Path\nCasPha oyn iDn D aceraalisvzhe W rayta (tlChleeOt otDimr) bea onfk d teralinvsefreyr\nCreVdiist a/ ,DR Meebafuistn tCedraecrdad rtdo, oUrnigioinnaPl acya radccepted\nBanDki rTercaRtn tesrfafuennrs d/f eeOrd n vtlioian sepo aBurartncneek rib nbagannkk asccount\nDigMitaol bWilReae lwlfeuatnslldeet d/ QtoR s-obuarsceed wpaalylemtents\nDarParze WpaRaidelle fiuntn-pdleadtf oinrsmta bnatllya ntoc ewallet\nInstBaallmnkeR-npeta fPrutnlnaden rsperdo c3e/6s/s1e2d m voian itshs pulianngs bank\n2. Payment Security"
+  },
+  {
+    "id": "b1f65c27-29f9-42a2-965b-bc622aa6b824",
+    "department": "payments",
+    "source_file": "payments_accepted_methods.pdf",
+    "chunk_text": "InstBaallmnkeR-npeta fPrutnlnaden rsperdo c3e/6s/s1e2d m voian itshs pulianngs bank\n2. Payment Security\n(cid:127) All card transactions are processed through PCI-DSS compliant payment gateways.\n(cid:127) Card details are never stored on platform servers; tokenisation is used for repeat purchases.\n(cid:127) 3-D Secure (OTP) verification is required for most card transactions.\n3. Failed or Pending Payments\nIf a payment is deducted but the order shows as failed or pending, the amount is typically auto-reversed by the\nissuing bank within 5–10 business days. If the reversal does not appear after this window, the customer should\nraise a payment dispute ticket with the bank transaction reference number.\n4. Installment Plan Eligibility\n(cid:127) Available only on select cards from partner banks."
+  },
+  {
+    "id": "1848c2b5-5900-44a9-b36e-578cee33a26d",
+    "department": "payments",
+    "source_file": "payments_accepted_methods.pdf",
+    "chunk_text": "4. Installment Plan Eligibility\n(cid:127) Available only on select cards from partner banks.\n(cid:127) Minimum order value thresholds apply and are displayed at checkout.\n(cid:127) Markup/interest terms are set by the issuing bank, not by the platform.\nNote: Available payment methods may vary by product category, order value, and delivery zone — not all\nmethods are shown for every order.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nAccepted Payment Methods Page 1"
+  },
+  {
+    "id": "5fe91244-e29f-4bb8-8ecd-3359d4385c0a",
+    "department": "payments",
+    "source_file": "payments_cod_policy.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nCash on Delivery (COD) Policy\nEligibility, limits, and operational rules for cash-on-delivery orders.\nDocument ID KB-PAY-002 Version v2.4\nOwner Payments & Fintech Team Last Updated 21 Jun 2026\n1. COD Eligibility\nCOD is offered by default on most listings unless the seller has opted for prepaid-only sales or the delivery\naddress falls outside COD-serviceable zones. Eligibility is confirmed at checkout based on product, order\nvalue, and delivery address.\n2. COD Order Value Limits\nCusStotamnNedora tTredys pCeOD Limit\nNewU cpu tsLotoo PwmKeeRrr l(i1mfi5ris,t0 tt 0o20 moradnearsg)e fraud risk\nVeriUfiepd t Bore aPpsKeeaRdt o1cnu0 s0pt,oo0sm0i0teivre order history\nHighC-vaaslMeu-eab yye -lrceeacqstureoirnei cpsrepaid or partial advance"
+  },
+  {
+    "id": "7fb64528-69c0-4d6f-ada1-33518a28b1fb",
+    "department": "payments",
+    "source_file": "payments_cod_policy.pdf",
+    "chunk_text": "VeriUfiepd t Bore aPpsKeeaRdt o1cnu0 s0pt,oo0sm0i0teivre order history\nHighC-vaaslMeu-eab yye -lrceeacqstureoirnei cpsrepaid or partial advance\n3. Repeated COD Refusal\n(cid:127) Accounts with 3 or more refused COD deliveries within 60 days may be restricted to prepaid payment\nmethods only.\n(cid:127) Restriction notices are sent via SMS/email and can be appealed through Customer Support.\n(cid:127) Sellers may set their own refusal thresholds for high-value or made-to-order items.\n4. Handling COD Refunds\nSince no card or bank record exists for a COD transaction, refunds for COD orders are issued as Daraz Wallet\ncredit by default, with an option to request a direct bank transfer refund by submitting verified bank account\ndetails through the Help Centre.\n5. Agent/Courier COD Handling Rules"
+  },
+  {
+    "id": "f46e19e2-da35-4198-9ed4-c2c7d37dcb70",
+    "department": "payments",
+    "source_file": "payments_cod_policy.pdf",
+    "chunk_text": "details through the Help Centre.\n5. Agent/Courier COD Handling Rules\n(cid:127) Couriers must provide a printed or digital receipt for every COD payment collected.\n(cid:127) Exact change should be available; couriers may accept mobile wallet payment as a COD alternative at the\ndoorstep where supported.\n(cid:127) Any COD collection discrepancy must be reported to the logistics partner within 24 hours.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nCash on Delivery (COD) Policy Page 1"
+  },
+  {
+    "id": "dac95b39-8668-4c98-9d43-e032656ece8e",
+    "department": "payments",
+    "source_file": "payments_faqs.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nPayments — Frequently Asked Questions\nCommon customer questions about payments, answered for quick agent reference.\nDocument ID KB-PAY-003 Version v1.6\nOwner Payments & Fintech Team Last Updated 20 Sep 2026\n1. Payment Deduction & Order Status\nQ: My payment was deducted but the order shows as failed. What happens now?\nA: This is usually a temporary authorisation hold rather than a completed charge. If the order did not confirm,\nthe hold is automatically reversed by the bank within 5–7 business days without any action needed from the\ncustomer.\n2. Changing Payment Method\nQ: Can I change my payment method after placing an order?\nA: No. The payment method cannot be changed once an order is placed. The order must be cancelled and"
+  },
+  {
+    "id": "0b045afe-e71d-4f69-b3a0-9a085ca92f18",
+    "department": "payments",
+    "source_file": "payments_faqs.pdf",
+    "chunk_text": "A: No. The payment method cannot be changed once an order is placed. The order must be cancelled and\nre-placed with the desired payment method.\n3. Card Safety\nQ: Is it safe to save my card details on the platform?\nA: Yes. Saved cards are tokenised through a PCI-DSS compliant payment gateway; the platform does not\nstore raw card numbers or CVV on its own servers.\n4. Duplicate Charges\nQ: I was charged twice for the same order. What should I do?\nA: Duplicate charges are typically a display issue on the bank's end rather than an actual double charge. The\ncustomer should raise a ticket with both transaction references; the Payments team will verify with the gateway\nand refund any confirmed duplicate within 5–10 business days.\n5. Installment Plans"
+  },
+  {
+    "id": "04f6bfdb-9e5e-4245-891d-ff9d016d0b5c",
+    "department": "payments",
+    "source_file": "payments_faqs.pdf",
+    "chunk_text": "and refund any confirmed duplicate within 5–10 business days.\n5. Installment Plans\nQ: Why don't I see installment options at checkout?\nA: Installment plans are only shown for eligible cards from partner banks and orders meeting the minimum\nvalue threshold; eligibility is checked automatically.\nAgent tip: Always ask for the transaction reference number and last 4 digits of the card/account before\nescalating any payment discrepancy to the Payments team.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nPayments — Frequently Asked Questions Page 1"
+  },
+  {
+    "id": "17459783-2f9a-452a-9f6e-c377c0808842",
+    "department": "refunds",
+    "source_file": "refunds_faqs.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nRefunds — Frequently Asked Questions\nCommon customer questions about refunds, answered for quick agent reference.\nDocument ID KB-REF-003 Version v1.5\nOwner Customer Experience Team Last Updated 21 Sep 2026\n1. Refund Trigger\nQ: When does my refund get issued?\nA: Refunds are issued after a returned item is received and inspected and confirmed to meet return eligibility,\nimmediately for orders cancelled before dispatch, and automatically for confirmed failed deliveries where\npayment was already made.\n2. Refund Destination\nQ: Can I choose where my refund is sent?\nA: Online payments (card, wallet, bank transfer) are always refunded to the original payment source."
+  },
+  {
+    "id": "c8065751-5c1f-4de2-ba80-5694c2facce9",
+    "department": "refunds",
+    "source_file": "refunds_faqs.pdf",
+    "chunk_text": "Q: Can I choose where my refund is sent?\nA: Online payments (card, wallet, bank transfer) are always refunded to the original payment source.\nCash-on-Delivery orders are refunded to Daraz Wallet by default, with a bank transfer option available on\nrequest.\n3. Partial Order Refunds\nQ: I only returned one item from a multi-item order — how is the refund calculated?\nA: Only the price of the returned item(s) is refunded. Delivery charges are refunded proportionally only if the\nentire order is returned.\n4. Refund Not Received\nQ: It has been longer than the stated window and I haven't received my refund. What do I do?\nA: First check the reference number with your bank. If the bank has no record after the maximum stated"
+  },
+  {
+    "id": "819f3451-99b5-4c19-b99b-059b39c5ee58",
+    "department": "refunds",
+    "source_file": "refunds_faqs.pdf",
+    "chunk_text": "A: First check the reference number with your bank. If the bank has no record after the maximum stated\nwindow, raise a ticket with Customer Support including the reference number for investigation by the\nPayments team.\nNote: Refund FAQs should be read alongside the Refund Policy Overview and Refund Processing\nTimelines documents for full context on eligibility and exact timeframes.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nRefunds — Frequently Asked Questions Page 1"
+  },
+  {
+    "id": "08c205bd-34d1-4953-955c-16eaf558c0a9",
+    "department": "refunds",
+    "source_file": "refunds_policy_overview.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nRefund Policy Overview\nGeneral principles governing when and how refunds are issued to customers.\nDocument ID KB-REF-001 Version v3.0\nOwner Customer Experience Team Last Updated 10 Sep 2026\n1. When a Refund Applies\n(cid:127) A return has passed quality check (QC) and the customer selected refund as the resolution.\n(cid:127) An order is cancelled before dispatch by the customer or the seller.\n(cid:127) An item could not be delivered after multiple failed attempts.\n(cid:127) A payment was deducted but the order failed to confirm (payment/technical failure).\n(cid:127) A price adjustment or partial refund is approved for a minor, non-returnable issue (e.g. missing minor\naccessory) at the discretion of Customer Support.\n2. Refund Methods"
+  },
+  {
+    "id": "614c9df5-da54-4650-bebd-19f2c85431a6",
+    "department": "refunds",
+    "source_file": "refunds_policy_overview.pdf",
+    "chunk_text": "accessory) at the discretion of Customer Support.\n2. Refund Methods\nOrigRineafulC Pnudasy Dtmoemesnteitrn MaCtehiotohniocde?\nCredOitr /ig DNineoab l— itc aC aradlwrdays refunded to source\nBankO TrirgaNinnoas lf— ebra /an Olkw naalcyincseo r ueBnfautnnkdiendg to source\nCashD aorna YDze eWsl,iv aoellnery tr e(dqeufeasutlt) or bank transfer\nDaraDza WraNazl/ lAWetallet\nDigitOalr iWgNinaoalle l— tw aalllewtays refunded to source\n3. Partial Refunds\nPartial refunds may be issued when only part of a multi-item order is affected, when a minor defect does not\nwarrant a full return, or when a price-match/goodwill adjustment is approved. Partial refund amounts and\nreasons are always communicated to the customer in writing before processing.\n4. Non-Refundable Charges"
+  },
+  {
+    "id": "3b84ced5-c665-409a-8a0e-53f56f8f8ccc",
+    "department": "refunds",
+    "source_file": "refunds_policy_overview.pdf",
+    "chunk_text": "reasons are always communicated to the customer in writing before processing.\n4. Non-Refundable Charges\n(cid:127) Delivery charges are non-refundable for “changed mind” returns, unless the platform-wide free-return\npromotion was active on the order.\n(cid:127) Cash-handling or COD service fees, where applicable, are non-refundable.\n(cid:127) Gift-wrapping charges are non-refundable once the order has been dispatched.\nNote: Refund policy exceptions for specific sale campaigns (e.g. extended return windows during mega\nsale events) are published separately as campaign addenda and override this document for the\ncampaign period only.\nRefund Policy Overview Page 1\ndaraz Knowledge Base — Internal Policy Document"
+  },
+  {
+    "id": "02f02775-df8a-4fa0-93a3-fe2e392048ed",
+    "department": "refunds",
+    "source_file": "refunds_policy_overview.pdf",
+    "chunk_text": "campaign period only.\nRefund Policy Overview Page 1\ndaraz Knowledge Base — Internal Policy Document\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nRefund Policy Overview Page 2"
+  },
+  {
+    "id": "f3c2db25-ea42-4a1e-a387-8658a2c8909a",
+    "department": "refunds",
+    "source_file": "refunds_processing_timelines.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nRefund Processing Timelines\nExpected timeframes for refunds to reflect, broken down by payment method and bank.\nDocument ID KB-REF-002 Version v2.6\nOwner Payments & Fintech Team Last Updated 14 Aug 2026\n1. Refund Timeline by Method\nPayPmlaetnfoBt raMmne kPt/hProordocevsidseinr gR eTfilmecetion Time\nDarIanzs tWanIantl sl–eta t2n4t hours\nCre1d–it3 / bD5u–es1bin4ite Cbsuass rddinaeysss days (bank-dependent)\nBan2k– T4 rba3un–ss7ifn eberusssi ndeasyss days\nDig1ita–l2 W b1ua–sl5lein tbeusssi ndeasyss days\nCO3D– fi 5B ba2un–sk5i n Tberuassnsi sndfeeasryss d(aafytser bank details verified)\n2. What Starts the Refund Clock\n(cid:127) For returns: the clock starts once QC has passed and the refund is approved in the system."
+  },
+  {
+    "id": "b6364ab1-d31a-44b4-948d-d300ac1b7aca",
+    "department": "refunds",
+    "source_file": "refunds_processing_timelines.pdf",
+    "chunk_text": "2. What Starts the Refund Clock\n(cid:127) For returns: the clock starts once QC has passed and the refund is approved in the system.\n(cid:127) For cancellations: the clock starts immediately upon cancellation confirmation.\n(cid:127) For failed payments: the clock starts from the payment gateway's failure timestamp, not the order placement\ntime.\n3. Checking Refund Status\nCustomers can check refund status under “My Orders fi Order Details fi Refund Status”, which displays the\nstage (Initiated, Processed, Sent to Bank, Completed) along with a reference number for the transaction.\n4. Delayed Refunds\n(cid:127) If a card/bank refund does not reflect after the maximum stated window, the customer should first check with\ntheir bank using the provided reference number."
+  },
+  {
+    "id": "58573f18-d48b-4ab8-809c-dc4f68067234",
+    "department": "refunds",
+    "source_file": "refunds_processing_timelines.pdf",
+    "chunk_text": "their bank using the provided reference number.\n(cid:127) If the bank confirms no record of the refund after 15 business days total, a support ticket should be escalated\nto the Payments team with the transaction reference for investigation.\n(cid:127) Daraz Wallet refunds that do not reflect within 24 hours should be reported immediately, as this typically\nindicates a system error rather than a processing delay.\nNote: Processing times may extend during high-volume sale periods or bank-side system maintenance\nwindows, which are communicated in advance where possible.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nRefund Processing Timelines Page 1"
+  },
+  {
+    "id": "324d0c57-6c4f-408f-817c-b3b0b6c59dfe",
+    "department": "returns",
+    "source_file": "returns_eligibility_policy.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nReturn Eligibility Policy\nRules governing which orders qualify for return, and applicable return windows by category.\nDocument ID KB-RET-001 Version v3.2\nOwner Customer Experience Team Last Updated 12 Sep 2026\n1. Overview\nCustomers may request a return for most items purchased on the platform within a defined return window,\nprovided the product meets the eligibility conditions listed below. Return windows vary by product category\ndue to differences in product lifecycle, hygiene requirements, and manufacturer terms.\n2. Standard Return Window by Category\nCateRgeotCuryronn Wditiniodno Rwequired\nFash1i4o ndU a&ny wsA opfrrponam, rte adlgesli vaettrayched, original packaging\nSho1e4s &dUa nByuass gfersodm, o driegliinvaelr ybox included"
+  },
+  {
+    "id": "a41ea738-133a-42c4-87b7-f71a0387bfbd",
+    "department": "returns",
+    "source_file": "returns_eligibility_policy.pdf",
+    "chunk_text": "Fash1i4o ndU a&ny wsA opfrrponam, rte adlgesli vaettrayched, original packaging\nSho1e4s &dUa nByuass gfersodm, o driegliinvaelr ybox included\nElec7tr odnaUiycnsso fp&roe Mmneo ddbe iblleiovsex royr manufacturing defect\nHom1e0 &dU aLnyiuvssi nfergodm, o driegliinvaelr ypackaging\nBeaNutoyt S&ree Ptauelr rmnsaoubnsltae bl oCen aicnreeta ocptened\nGrocNeortie Nes/lA ig&i bPlee rfiosrh arebtluersn\nLarg3e dAaDpyepsfl iefarcontmc ve esdreifliievde rbyy technician visit\n3. Items Not Eligible for Return\n(cid:127) Products marked “Non-Returnable” on the product detail page at time of purchase.\n(cid:127) Innerwear, swimwear, and pierced jewellery, for hygiene reasons.\n(cid:127) Customised, personalised, or made-to-order items."
+  },
+  {
+    "id": "d755ff4d-8c4f-483a-a752-70992c74e814",
+    "department": "returns",
+    "source_file": "returns_eligibility_policy.pdf",
+    "chunk_text": "(cid:127) Innerwear, swimwear, and pierced jewellery, for hygiene reasons.\n(cid:127) Customised, personalised, or made-to-order items.\n(cid:127) Products with a removed or damaged security seal, IMEI sticker, or warranty label.\n(cid:127) Free promotional items or bundled gifts received with an order.\n(cid:127) Digital goods, vouchers, and top-ups once redeemed.\n4. Conditions for a Valid Return\n(cid:127) The item must be unused, unwashed, and in its original condition.\n(cid:127) All original tags, labels, and accessories must be included.\n(cid:127) The original packaging and invoice/order slip should be returned along with the product.\n(cid:127) For electronics, all accessories (charger, cables, manual, warranty card) must be present.\n5. Defective or Wrong Item Received"
+  },
+  {
+    "id": "616d49ad-2a50-41b8-b29e-70877dc36969",
+    "department": "returns",
+    "source_file": "returns_eligibility_policy.pdf",
+    "chunk_text": "(cid:127) For electronics, all accessories (charger, cables, manual, warranty card) must be present.\n5. Defective or Wrong Item Received\nReturn Eligibility Policy Page 1\ndaraz Knowledge Base — Internal Policy Document\nIf a customer receives a defective, damaged, or incorrect item, the standard category return window does not\napply. Such cases must be reported within 48 hours of delivery through the Help Centre, and photo or video\nevidence of the issue should be attached to the request to speed up verification.\nNote: Return eligibility is assessed automatically at the time a return request is raised. If a system\noverride is required (e.g. goodwill exception), it must be approved by a Customer Experience team lead\nand logged in the case management system.\n6. Related Documents"
+  },
+  {
+    "id": "c8ed289b-cc9f-4b86-850e-dfcabdf25209",
+    "department": "returns",
+    "source_file": "returns_eligibility_policy.pdf",
+    "chunk_text": "and logged in the case management system.\n6. Related Documents\n(cid:127) Returns Process Guide (returns_process_guide.pdf)\n(cid:127) Refund Policy Overview (refunds/refunds_policy_overview.pdf)\n(cid:127) Refund Processing Timelines (refunds/refunds_processing_timelines.pdf)\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nReturn Eligibility Policy Page 2"
+  },
+  {
+    "id": "35c6c0e4-7276-4bbf-a700-0f381590086f",
+    "department": "returns",
+    "source_file": "returns_faqs.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nReturns — Frequently Asked Questions\nCommon customer questions about returns, answered for quick agent reference.\nDocument ID KB-RET-003 Version v1.3\nOwner Customer Experience Team Last Updated 21 Sep 2026\n1. Return Window\nQ: How many days do I have to return an item?\nA: Most items can be returned within 7–14 days of delivery depending on category; the exact window for a\ngiven product is always shown on the product detail page and in the Return Eligibility Policy.\n2. Proof of Purchase\nQ: Do I need the original invoice to return an item?\nA: The order ID is required for every return; it is used to look up the order automatically, so a printed invoice is\nnot strictly required unless requested for a specific case.\n3. Change of Mind"
+  },
+  {
+    "id": "6e80af97-c2f5-4cae-96f6-686fa3358b99",
+    "department": "returns",
+    "source_file": "returns_faqs.pdf",
+    "chunk_text": "not strictly required unless requested for a specific case.\n3. Change of Mind\nQ: Can I return an item just because I changed my mind?\nA: Yes, for most categories, as long as the item is unused, in original packaging with tags attached, and within\nthe applicable return window. Delivery charges are non-refundable for change-of-mind returns.\n4. Damaged or Wrong Item\nQ: I received a damaged or wrong item — does the normal return window still apply?\nA: No. These cases should be reported within 48 hours of delivery with photo/video evidence, and are handled\noutside the standard category return window.\nNote: For full eligibility rules and the step-by-step return process, see the Return Eligibility Policy and\nReturn Process Guide in this same folder."
+  },
+  {
+    "id": "d3828f99-1201-4d5e-8ccb-6594b140e9b1",
+    "department": "returns",
+    "source_file": "returns_faqs.pdf",
+    "chunk_text": "Note: For full eligibility rules and the step-by-step return process, see the Return Eligibility Policy and\nReturn Process Guide in this same folder.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nReturns — Frequently Asked Questions Page 1"
+  },
+  {
+    "id": "94c7a251-8292-4946-8af1-5fb636ddc1a9",
+    "department": "returns",
+    "source_file": "returns_process_guide.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nReturn Process Guide\nStep-by-step process for customers and support agents to initiate and track a return.\nDocument ID KB-RET-002 Version v2.5\nOwner Customer Experience Team Last Updated 03 Aug 2026\n1. How a Customer Initiates a Return\n(cid:127) Go to “My Orders” and select the relevant order.\n(cid:127) Tap “Return / Refund” next to the item.\n(cid:127) Select a return reason from the dropdown (wrong item, defective, changed mind, size issue, etc.).\n(cid:127) Upload photos if the reason relates to damage, defect, or an incorrect item.\n(cid:127) Choose a resolution: replacement, refund to original payment method, or Daraz Wallet credit.\n(cid:127) Confirm the pickup address and preferred pickup time slot.\n2. Pickup & Drop-off Options"
+  },
+  {
+    "id": "e3a8f0a8-349c-45ef-8783-3b3555c940d8",
+    "department": "returns",
+    "source_file": "returns_process_guide.pdf",
+    "chunk_text": "(cid:127) Confirm the pickup address and preferred pickup time slot.\n2. Pickup & Drop-off Options\nMethAovdaTilyapbiicliatyl Timeframe\nCourMiear j1po–irc 3ck iutbipeu ssfrinoems sh odmayes/o afffitceer request\nDropS-oeflfeC acutt espdtao rcmtinteieerr-s incoitilaletcetdio, na npyo itnimt e within 5 days\nSelf-Ashll ipcRi t(eiceiumssbtoumrseerd s oenn dvse rvifiiae dc oduerfieecr)t cases only\n3. Quality Check (QC) Process\nOnce the item is collected, it is routed to the nearest fulfilment or seller warehouse for a quality check. A QC\nagent verifies the product against the return reason, confirms the condition matches eligibility rules, and\nupdates the return status accordingly.\n(cid:127) QC Passed — refund or replacement is triggered automatically."
+  },
+  {
+    "id": "70973cba-dd68-4ae4-9887-388cb259b942",
+    "department": "returns",
+    "source_file": "returns_process_guide.pdf",
+    "chunk_text": "updates the return status accordingly.\n(cid:127) QC Passed — refund or replacement is triggered automatically.\n(cid:127) QC Failed — item is shipped back to the customer with a rejection reason, and the customer is notified.\n(cid:127) QC Disputed — escalated to a senior agent for manual review within 2 business days.\n4. Tracking a Return\nCustomers can track return status in real time under “My Orders fi Returns”, which shows each stage:\nRequested, Pickup Scheduled, Picked Up, In QC, QC Passed/Failed, and Refund/Replacement Issued.\n5. Support Agent Checklist\n(cid:127) Verify the order falls within the applicable return window before approving.\n(cid:127) Confirm evidence (photos/video) is attached for defect or wrong-item claims."
+  },
+  {
+    "id": "ed3deb3d-d65b-4a48-9bbe-864b71ed784f",
+    "department": "returns",
+    "source_file": "returns_process_guide.pdf",
+    "chunk_text": "(cid:127) Confirm evidence (photos/video) is attached for defect or wrong-item claims.\n(cid:127) Check for prior abuse flags on the customer account before approving high-value returns.\n(cid:127) Escalate ambiguous cases to the Trust & Safety queue rather than approving manually.\nReturn Process Guide Page 1\ndaraz Knowledge Base — Internal Policy Document\nEscalation SLA: Any return stuck in “In QC” for more than 5 business days should be escalated to the\nWarehouse Operations team via the internal ticketing system.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nReturn Process Guide Page 2"
+  },
+  {
+    "id": "db09b127-115f-4296-8e1a-be762733f0f6",
+    "department": "sellers",
+    "source_file": "sellers_code_of_conduct.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nSeller Code of Conduct & Policies\nStandards of conduct sellers must follow to remain in good standing on the platform.\nDocument ID KB-SEL-003 Version v2.0\nOwner Seller Operations Team Last Updated 22 Sep 2026\n1. Listing Standards\n(cid:127) Product titles, images, and descriptions must accurately represent the item being sold.\n(cid:127) Pricing must not be artificially inflated before a discount to mislead buyers.\n(cid:127) Counterfeit, replica, or unauthorised branded goods are strictly prohibited.\n(cid:127) Category-specific compliance documents (certifications, safety labels) must be uploaded where required.\n2. Order Fulfilment Standards"
+  },
+  {
+    "id": "86901fdb-453f-43d1-acab-5124031bf197",
+    "department": "sellers",
+    "source_file": "sellers_code_of_conduct.pdf",
+    "chunk_text": "(cid:127) Category-specific compliance documents (certifications, safety labels) must be uploaded where required.\n2. Order Fulfilment Standards\n(cid:127) Orders must be processed and handed to the courier within the seller's committed processing time, shown at\ncheckout.\n(cid:127) Sellers must not cancel confirmed orders except for genuine stock-unavailability, and repeated cancellations\naffect the seller's performance score.\n(cid:127) Packaging must protect the product adequately for transit; repeated damage-in-transit complaints trigger a\npackaging review.\n3. Customer Communication Standards\n(cid:127) Sellers must respond to buyer questions and dispute messages within 24 hours.\n(cid:127) Sellers may not request customers to complete transactions outside the platform."
+  },
+  {
+    "id": "96ce7e63-e273-4275-9497-750531e99fff",
+    "department": "sellers",
+    "source_file": "sellers_code_of_conduct.pdf",
+    "chunk_text": "(cid:127) Sellers may not request customers to complete transactions outside the platform.\n(cid:127) Sellers may not offer incentives in exchange for positive reviews.\n4. Performance Metrics & Consequences\nMetrSictanCdoanrsde Tqhureenscheo ilfd Breached\nOrdeBre cloaWwnac 2ren%lliantgio, nth reante listing suspension\nLateB sehloiRpwme d5eu%nct erda tseearch ranking\nValidB ebluoAywce cr1 oc%uonmt prelaviinetw ra, tpeossible suspension\nCouZneterroIfm etoimt/leIePrda vinaiocteela ltiisotning removal, account review\n5. Appeals\nSellers who believe a suspension or penalty was applied in error may submit an appeal through Seller Center\nwithin 14 days, including supporting evidence. Appeals are reviewed by the Seller Operations compliance\nteam within 5 business days."
+  },
+  {
+    "id": "5f364e0d-d35e-4610-ad28-8400f8c26d4c",
+    "department": "sellers",
+    "source_file": "sellers_code_of_conduct.pdf",
+    "chunk_text": "within 14 days, including supporting evidence. Appeals are reviewed by the Seller Operations compliance\nteam within 5 business days.\nSeller Code of Conduct & Policies Page 1\ndaraz Knowledge Base — Internal Policy Document\nNote: Repeated or severe violations (counterfeit goods, fraud, safety violations) may result in immediate\naccount termination without a prior warning cycle.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nSeller Code of Conduct & Policies Page 2"
+  },
+  {
+    "id": "3b4070a2-51ae-417d-a0b9-0426187b1c9e",
+    "department": "sellers",
+    "source_file": "sellers_commission_fees.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nSeller Commission & Fee Structure\nBreakdown of platform commission, payment processing fees, and payout schedule.\nDocument ID KB-SEL-002 Version v3.3\nOwner Seller Operations Team Last Updated 16 Sep 2026\n1. Commission Structure by Category\nCategoCroymmission Rate\nFashio1n0 &–1 A4p%parel\nElectro3n–ic6s% & Mobiles\nHome 8&– L1i2v%ing\nBeauty9 –&1 P3e%rsonal Care\nGrocer4ie–s7%\nLarge 4A–p6p%liances\nExact commission rates within each range depend on the specific sub-category and any active seller-tier\ndiscounts. The current applicable rate for each listing is always shown in the Seller Center pricing calculator\nbefore a product goes live.\n2. Additional Fees"
+  },
+  {
+    "id": "f26e5007-3eac-419d-b041-73d41d0f4b4d",
+    "department": "sellers",
+    "source_file": "sellers_commission_fees.pdf",
+    "chunk_text": "before a product goes live.\n2. Additional Fees\n(cid:127) Payment processing fee: a small percentage deducted per transaction to cover gateway costs.\n(cid:127) Fulfilment fee: applies only to products stored in and shipped from Daraz Fulfilment Centres.\n(cid:127) Return-handling fee: applies to returns caused by seller error (wrong item, misleading listing) and is waived\nfor buyer-remorse returns.\n(cid:127) Advertising/promotion fees: optional, charged only when a seller opts into sponsored placements.\n3. Payout Schedule\n(cid:127) Standard payout cycle: every 14 days, for orders that have completed their return window.\n(cid:127) Funds for a given order are held until the applicable return window has closed without a return request, to\nprotect against chargebacks on completed refunds."
+  },
+  {
+    "id": "c81de4f5-0f74-4f7a-82e5-adff9de88459",
+    "department": "sellers",
+    "source_file": "sellers_commission_fees.pdf",
+    "chunk_text": "protect against chargebacks on completed refunds.\n(cid:127) New sellers (first 60 days) may be placed on a shorter rolling reserve at the platform's discretion to manage\nfraud risk.\n4. Payout Statement\nEach payout is accompanied by a downloadable statement in Seller Center, itemising gross sales,\ncommission deducted, fees deducted, refunds/returns offset, and net payout amount per order.\nSeller Commission & Fee Structure Page 1\ndaraz Knowledge Base — Internal Policy Document\nNote: Commission rates are reviewed periodically and any change is communicated to sellers at least 14\ndays in advance via the Seller Center announcement board.\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an"
+  },
+  {
+    "id": "89793bdc-c4fd-45c4-8240-f32a4dc9f233",
+    "department": "sellers",
+    "source_file": "sellers_commission_fees.pdf",
+    "chunk_text": "This is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nSeller Commission & Fee Structure Page 2"
+  },
+  {
+    "id": "354112cb-432b-4973-b73b-8f5675fb00a9",
+    "department": "sellers",
+    "source_file": "sellers_onboarding_guide.pdf",
+    "chunk_text": "daraz Knowledge Base — Internal Policy Document\nSeller Onboarding Guide\nRequirements and step-by-step process for registering as a marketplace seller.\nDocument ID KB-SEL-001 Version v2.8\nOwner Seller Operations Team Last Updated 01 Sep 2026\n1. Eligibility Requirements\n(cid:127) Valid CNIC (individual sellers) or business registration/NTN (registered businesses).\n(cid:127) An active bank account in the business or seller's legal name for settlement payouts.\n(cid:127) A minimum product catalogue of at least 1 listing with compliant images and descriptions to activate the\nstore.\n(cid:127) Agreement to the Seller Terms of Service and applicable category-specific policies.\n2. Onboarding Steps\n(cid:127) Step 1: Complete the Seller Center registration form with business/personal details."
+  },
+  {
+    "id": "ed84e6a9-cda7-49e9-a04e-4068c159f05a",
+    "department": "sellers",
+    "source_file": "sellers_onboarding_guide.pdf",
+    "chunk_text": "2. Onboarding Steps\n(cid:127) Step 1: Complete the Seller Center registration form with business/personal details.\n(cid:127) Step 2: Upload required documents (CNIC/NTN, bank account proof, business registration if applicable).\n(cid:127) Step 3: Await document verification, typically completed within 2–3 business days.\n(cid:127) Step 4: Set up store profile — store name, logo, description, and return address.\n(cid:127) Step 5: Upload initial product listings, following category-specific content guidelines.\n(cid:127) Step 6: Complete a short onboarding orientation covering order management and QC standards.\n(cid:127) Step 7: Store goes live after final review; first products become searchable within 24 hours.\n3. Restricted & Prohibited Categories"
+  },
+  {
+    "id": "9aa21bfa-810c-401f-804a-3b23695b4c00",
+    "department": "sellers",
+    "source_file": "sellers_onboarding_guide.pdf",
+    "chunk_text": "(cid:127) Step 7: Store goes live after final review; first products become searchable within 24 hours.\n3. Restricted & Prohibited Categories\nCertain categories require additional approval (e.g. supplements, baby formula, certain electronics requiring\nregulatory certification), while others are prohibited outright (counterfeit goods, weapons, hazardous materials,\nprescription medicines without licensing). The full restricted-items list is maintained separately in the Seller\nCenter compliance section.\n4. Document Verification Timelines\nDocumVeenritf iTcyaptieon Time\nCNIC /S Naamtieo ndaaly I D– 1 business day\nBusine2s–s3 R beugsiisnterastsio dna /y NsTN\nBank A1c–c2o buunst iVneersisfi cdaatiyosn\nBrand 3A–u5th boursizinaetiossn d(faoyr sbranded goods)"
+  },
+  {
+    "id": "2c9a1bab-3ffb-4e2f-bf6d-6677122b12b1",
+    "department": "sellers",
+    "source_file": "sellers_onboarding_guide.pdf",
+    "chunk_text": "Busine2s–s3 R beugsiisnterastsio dna /y NsTN\nBank A1c–c2o buunst iVneersisfi cdaatiyosn\nBrand 3A–u5th boursizinaetiossn d(faoyr sbranded goods)\nNote: Incomplete or mismatched documentation (e.g. bank account name not matching registered\nbusiness name) is the most common cause of onboarding delays.\nSeller Onboarding Guide Page 1\ndaraz Knowledge Base — Internal Policy Document\nThis is a sample/demo policy document generated for knowledge-base and chatbot training purposes. It is illustrative content, not an\nofficial Daraz publication.\nSeller Onboarding Guide Page 2"
+  }
+]

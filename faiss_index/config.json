@@ -1,0 +1,9 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "num_chunks": 64,
+  "num_source_pdfs": 18,
+  "similarity_metric": "cosine (via normalized inner product)"
+}
