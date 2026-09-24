@@ -261,11 +261,17 @@ def transcribe_audio(audio_bytes: bytes) -> str | None:
     """
     Send recorded mic audio to Groq's Whisper model and return the
     transcribed text. Returns None (and shows an error) on failure.
+
+    language="en" forces Whisper to write the transcription in Roman/Latin
+    script (phonetic English spelling), even if the user speaks Urdu/Hindi
+    words — otherwise Whisper auto-detects the language and can switch to
+    Devanagari/Urdu script mid-sentence.
     """
     try:
         transcription = groq_client.audio.transcriptions.create(
             file=("voice_question.wav", audio_bytes),
             model=WHISPER_MODEL,
+            language="en",
             response_format="text",
         )
         # Some SDK versions return a plain string, others an object with .text
