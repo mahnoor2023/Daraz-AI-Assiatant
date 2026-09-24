@@ -14,6 +14,11 @@ A Streamlit chat app that:
     (model: openai/gpt-oss-120b) to generate a grounded answer.
   - Reads the Groq API key from Streamlit secrets (st.secrets), never
     from a visible text input.
+  - Voice input: user can record a question with the mic; the audio is
+    transcribed to text using Groq's Whisper model (whisper-large-v3),
+    then goes through the exact same retrieval + LLM pipeline as typed text.
+  - Voice output (optional, toggle in sidebar): the assistant's answer is
+    converted to speech (gTTS) and played back automatically.
 
 Run:
     streamlit run app.py
@@ -23,6 +28,9 @@ Requires a Streamlit secret:
         GROQ_API_KEY = "gsk_xxxxxxxxxxxxxxxxxxxx"
 """
 
+from __future__ import annotations
+
+import io
 import json
 from pathlib import Path
 
@@ -31,6 +39,8 @@ import numpy as np
 import streamlit as st
 from sentence_transformers import SentenceTransformer
 from groq import Groq
+from streamlit_mic_recorder import mic_recorder
+from gtts import gTTS
 
 
 # --------------------------------------------------------------------------
@@ -53,6 +63,9 @@ ALL_SECTIONS = [
 
 DARAZ_ORANGE = "#F85606"
 DARAZ_DARK = "#1A1A1A"
+
+WHISPER_MODEL = "whisper-large-v3"   # Groq speech-to-text model
+TTS_CHAR_LIMIT = 1500                # keep gTTS requests reasonable in length
 
 
 # --------------------------------------------------------------------------
@@ -187,6 +200,10 @@ with st.sidebar:
         show_sources = st.checkbox("Show retrieved sources", value=True)
 
     st.divider()
+    st.markdown("### 🎙️ Voice")
+    voice_answers_enabled = st.toggle("🔊 Speak answers out loud", value=False)
+
+    st.divider()
     if st.button("🗑️ Clear chat", use_container_width=True):
         st.session_state.messages = []
         st.rerun()
@@ -238,6 +255,43 @@ def retrieve_chunks(query: str, sections: list, k: int):
             break
 
     return results
+
+
+def transcribe_audio(audio_bytes: bytes) -> str | None:
+    """
+    Send recorded mic audio to Groq's Whisper model and return the
+    transcribed text. Returns None (and shows an error) on failure.
+    """
+    try:
+        transcription = groq_client.audio.transcriptions.create(
+            file=("voice_question.wav", audio_bytes),
+            model=WHISPER_MODEL,
+            response_format="text",
+        )
+        # Some SDK versions return a plain string, others an object with .text
+        text = transcription if isinstance(transcription, str) else getattr(transcription, "text", "")
+        text = text.strip()
+        return text if text else None
+    except Exception as e:
+        st.error(f"Voice transcription failed: {e}")
+        return None
+
+
+def text_to_speech(answer_text: str) -> bytes | None:
+    """
+    Convert the assistant's answer text to speech (mp3 bytes) using gTTS.
+    Truncates very long answers so the audio stays short and reliable.
+    """
+    try:
+        clipped = answer_text[:TTS_CHAR_LIMIT]
+        tts = gTTS(text=clipped, lang="en")
+        buf = io.BytesIO()
+        tts.write_to_fp(buf)
+        buf.seek(0)
+        return buf.read()
+    except Exception as e:
+        st.warning(f"Could not generate voice answer: {e}")
+        return None
 
 
 def build_context(chunks: list) -> str:
@@ -305,9 +359,32 @@ for msg in st.session_state.messages:
 
 
 # --------------------------------------------------------------------------
-# Chat input
+# Chat input — typed text OR voice (mic → Groq Whisper → text)
 # --------------------------------------------------------------------------
-user_question = st.chat_input("Ask about returns, delivery, refunds, sellers, payments...")
+mic_col, hint_col = st.columns([1, 9])
+with mic_col:
+    audio = mic_recorder(
+        start_prompt="🎙️ Speak",
+        stop_prompt="⏹️ Stop",
+        just_once=True,
+        use_container_width=True,
+        key="voice_recorder",
+    )
+with hint_col:
+    st.caption("Tap the mic to ask by voice, or type below.")
+
+typed_question = st.chat_input("Ask about returns, delivery, refunds, sellers, payments...")
+
+# Resolve the actual question from whichever input source fired this run.
+# Typed input takes priority if somehow both fire in the same run.
+user_question = None
+if typed_question:
+    user_question = typed_question
+elif audio and audio.get("bytes"):
+    with st.spinner("Transcribing your voice..."):
+        user_question = transcribe_audio(audio["bytes"])
+    if user_question:
+        st.info(f"🎙️ Heard: \u201c{user_question}\u201d")
 
 if user_question:
     st.session_state.messages.append({"role": "user", "content": user_question})
@@ -324,6 +401,10 @@ if user_question:
                 "Try selecting more sections in the sidebar, or rephrase your question."
             )
             st.markdown(answer)
+            if voice_answers_enabled:
+                audio_bytes = text_to_speech(answer)
+                if audio_bytes:
+                    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
             st.session_state.messages.append({"role": "assistant", "content": answer, "sources": []})
         else:
             context = build_context(chunks)
@@ -331,6 +412,11 @@ if user_question:
                 answer = generate_answer(user_question, context, st.session_state.messages)
 
             st.markdown(answer)
+
+            if voice_answers_enabled:
+                audio_bytes = text_to_speech(answer)
+                if audio_bytes:
+                    st.audio(audio_bytes, format="audio/mp3", autoplay=True)
 
             if show_sources:
                 tags = "".join(
